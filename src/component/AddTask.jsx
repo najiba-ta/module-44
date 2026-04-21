@@ -45,7 +45,7 @@ export function AddTask({createATask}) {
                                             Cancel
                                         </Button>
                                         <Button type="submit">Submit Task</Button>
-                                    </Modal.Footer>ß
+                                    </Modal.Footer>
                                 </form>
                             </Surface>
                         </Modal.Body>
